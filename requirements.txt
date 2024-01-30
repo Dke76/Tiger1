@@ -1,8 +1,8 @@
-pyrogram==1.4.16
+pyrogram==2.0.83
 tgcrypto
 requests
-pyromod==1.5
-yt-dlp
+pyromod==1.4
+yt-dlp==2023.11.16
 aiohttp
 aiofiles
 ffmpeg
